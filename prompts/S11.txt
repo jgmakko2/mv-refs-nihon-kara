@@ -1,0 +1,15 @@
+The attached image is the storyboard for this take: it is a sheet of 2 panels read in order, and each panel is one shot of this video in that order. Copy each panel's composition, framing, palette, character design, line quality, printed characters and paper texture exactly, then animate it; ignore the panel borders and the sheet itself, which must never appear in the video. The storyboard is a still drawing, but this video is not still: every shot below moves as described.
+
+The whole video is flat anime-style illustration, clean confident line work, flat cel shading with no gradients, poster and magazine-editorial page composition with intentional margins, print-like paper grain and a fine scatter of paint flecks. Four inks only: soft warm off-white paper #F2EFE9, near-black ink #1E1E1E, camellia red #D8425A, sakura pink #E4899C. Absolutely no photorealism, no live-action, no 3D render, no volumetric light, no cast shadows, no perspective extrusion on any letterform.
+
+There are 2 hard cuts in this video, one shot per storyboard panel, with no dissolves and no fades between them.
+
+From about 0.0 seconds, shot 1: the whole frame is light paper. The shot is framed as no character. The picture is composed around end card - the solid red circle above, the four characters small and complete below. In this shot, the red circle holds perfectly still while the four characters fade up beneath it and settle. The text printed in this shot is 始めよう — exactly those 4 characters, in that order, and no other characters of any kind. It reaches one clean state where it is completely still and fully readable and holds there. The row fills the frame width and its outer strokes may run off the left and right edges, but every character stays whole and identifiable — do not crop away a radical or a component of any character, and do not invent extra words. Through this shot the camera drifts with very small amplitude at very slow speed and never cuts away, so the frame reads as almost completely still.
+
+From about 5.0 seconds, shot 2: the whole frame is light paper. The shot is framed as no character. The picture is composed around the small Latin caps alone in the left margin. In this shot, everything holds completely still except a single flat pink petal drifting down the right side of the sheet. The text printed in this shot is NIHON KARA in heavy condensed capital Latin letters — exactly those words and no others. It reaches one clean state where it is completely still and fully readable and holds there. Do not invent extra words. Through this shot the camera drifts with very small amplitude at very slow speed and never cuts away, so the frame reads as almost completely still.
+
+Every shot carries the same page furniture: a small solid camellia-red circle centred on the top margin with a thin ink rule running out from both sides of it.
+
+The soundscape is a quiet room tone with a faint paper rustle. The non-diegetic music is a sparse low drone, with no vocals, no singing and no spoken words.
+
+The take runs on to about 10 seconds, and nothing new is introduced after the last beat described above.

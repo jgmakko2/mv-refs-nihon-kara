@@ -1,0 +1,27 @@
+The attached image is the storyboard for this take: it is a sheet of 6 panels read in order, and each panel is one shot of this video in that order. Copy each panel's composition, framing, palette, character design, line quality, printed characters and paper texture exactly, then animate it; ignore the panel borders and the sheet itself, which must never appear in the video. The storyboard is a still drawing, but this video is not still: every shot below moves as described.
+
+The whole video is flat anime-style illustration, clean confident line work, flat cel shading with no gradients, poster and magazine-editorial page composition with intentional margins, print-like paper grain and a fine scatter of paint flecks. Four inks only: soft warm off-white paper #F2EFE9, near-black ink #1E1E1E, camellia red #D8425A, sakura pink #E4899C. Absolutely no photorealism, no live-action, no 3D render, no volumetric light, no cast shadows, no perspective extrusion on any letterform.
+
+The figure throughout is a calm young Japanese woman with a blunt jet-black bob and a straight fringe, drawn flat with simple dot eyes and no nose shading, wearing a long open sakura-pink coat over a white tee, black slim trousers, red socks and white sneakers, a canvas tote with a small red circle on it, a black film camera on a neck strap, drawn identically in every shot she appears in.
+
+There are 6 hard cuts in this video, one shot per storyboard panel, with no dissolves and no fades between them.
+
+From about 0.0 seconds, shot 1: the whole frame is light paper. The shot is framed as eyes-only extreme close-up. The picture is composed around the same words tiled in a column in small Latin caps down the left margin. In this shot, the eyes widen; the column of small words scrolls upward past them. The text printed in this shot is NIHON KARA in heavy condensed capital Latin letters — exactly those words and no others. It reaches one clean state where it is completely still and fully readable and holds there. Do not invent extra words. Through this shot the camera pushes in with large amplitude at fast speed.
+
+From about 1.7 seconds, shot 2: the whole frame is inverted, near-black ground. The shot is framed as face in profile facing right. The picture is composed around the word is cut into three offset horizontal slices. In this shot, she tips her head back; the slices slide apart and snap back together. The text printed in this shot is NIHON KARA in heavy condensed capital Latin letters — exactly those words and no others. It reaches one clean state where it is completely still and fully readable and holds there. Do not invent extra words. Through this shot the camera whip pans to the right with medium amplitude at medium speed.
+
+From about 3.3 seconds, shot 3: the whole frame is accent field, whole sheet camellia red. The shot is framed as a leg and sneaker entering from the top edge. The picture is composed around a body fragment entering from outside the frame. In this shot, the foot swings down through the frame and out of the bottom edge. Through this shot the camera pulls back with large amplitude at fast speed.
+
+From about 5.0 seconds, shot 4: the whole frame is light paper. The shot is framed as the same figure printed five times across one sheet at mixed sizes. The picture is composed around the same figure printed several times at mixed sizes. In this shot, the five printings each turn to face the camera one after another, left to right. Through this shot the camera trucks to the left with medium amplitude at medium speed.
+
+From about 6.7 seconds, shot 5: the whole frame is inverted, near-black ground. The shot is framed as full standing figure, back turned. The picture is composed around a flat silhouette with no interior detail. In this shot, she walks away into the depth of the sheet, getting smaller, and the black ground closes over her. Through this shot the camera tilts up with large amplitude at fast speed.
+
+From about 8.3 seconds, shot 6: the whole frame is light paper. The shot is framed as hands only, entering from both side edges. The picture is composed around a body fragment entering from outside the frame. In this shot, the two hands press flat against the paper from opposite sides and push toward each other. Through this shot the camera rolls clockwise with medium amplitude at medium speed.
+
+Render NO Japanese characters anywhere in the frame at any point.
+
+Every shot carries the same page furniture: a small solid camellia-red circle centred on the top margin with a thin ink rule running out from both sides of it.
+
+The soundscape is a quiet room tone with a faint paper rustle. The non-diegetic music is a sparse low drone, with no vocals, no singing and no spoken words.
+
+The take runs on to about 10 seconds, and nothing new is introduced after the last beat described above.

@@ -1,0 +1,27 @@
+The attached image is the storyboard for this take: it is a sheet of 6 panels read in order, and each panel is one shot of this video in that order. Copy each panel's composition, framing, palette, character design, line quality, printed characters and paper texture exactly, then animate it; ignore the panel borders and the sheet itself, which must never appear in the video. The storyboard is a still drawing, but this video is not still: every shot below moves as described.
+
+The whole video is flat anime-style illustration, clean confident line work, flat cel shading with no gradients, poster and magazine-editorial page composition with intentional margins, print-like paper grain and a fine scatter of paint flecks. Four inks only: soft warm off-white paper #F2EFE9, near-black ink #1E1E1E, camellia red #D8425A, sakura pink #E4899C. Absolutely no photorealism, no live-action, no 3D render, no volumetric light, no cast shadows, no perspective extrusion on any letterform.
+
+The figure throughout is a calm young Japanese woman with a blunt jet-black bob and a straight fringe, drawn flat with simple dot eyes and no nose shading, wearing a long open sakura-pink coat over a white tee, black slim trousers, red socks and white sneakers, a canvas tote with a small red circle on it, a black film camera on a neck strap, drawn identically in every shot she appears in.
+
+There are 6 hard cuts in this video, one shot per storyboard panel, with no dissolves and no fades between them.
+
+From about 0.0 seconds, shot 1: the whole frame is accent field, whole sheet camellia red. The shot is framed as no character. The picture is composed around one flat colour owning the whole sheet. In this shot, a white flat Mount Fuji silhouette rises from the bottom edge and stops. Through this shot the camera pushes in with large amplitude at fast speed.
+
+From about 1.7 seconds, shot 2: the whole frame is inverted, near-black ground. The shot is framed as the figure as a flat white silhouette, reclining. The picture is composed around a flat silhouette with no interior detail. In this shot, the reclining silhouette pushes itself up with one arm and sits upright. Through this shot the camera whip pans to the right with medium amplitude at medium speed.
+
+From about 3.3 seconds, shot 3: the whole frame is light paper. The shot is framed as no character. The picture is composed around flat shapes thrown outward from the centre. In this shot, black flat petals explode outward from the centre of the sheet to every edge. Through this shot the camera pulls back with large amplitude at fast speed.
+
+From about 5.0 seconds, shot 4: the whole frame is accent field, whole sheet camellia red. The shot is framed as back of the head only, filling the lower frame. The picture is composed around a body fragment entering from outside the frame. In this shot, the head turns until the profile comes round into view. Through this shot the camera trucks to the left with medium amplitude at medium speed.
+
+From about 6.7 seconds, shot 5: the whole frame is inverted, near-black ground. The shot is framed as no character. The picture is composed around a tiled grid of flat shapes. In this shot, white flat torii gates tile the sheet in rows and rush past the camera. Through this shot the camera tilts up with large amplitude at fast speed.
+
+From about 8.3 seconds, shot 6: the whole frame is light paper. The shot is framed as no character. The picture is composed around a hard-edged bar sweeping the sheet clean. In this shot, a red bar wipes the sheet from top to bottom leaving clean paper behind it. Through this shot the camera rolls clockwise with medium amplitude at medium speed.
+
+Render NO readable text of any kind anywhere in the frame at any point: no Japanese characters, no Latin letters, no numerals, no captions and no signage.
+
+Every shot carries the same page furniture: a small solid camellia-red circle centred on the top margin with a thin ink rule running out from both sides of it.
+
+The soundscape is a quiet room tone with a faint paper rustle. The non-diegetic music is a sparse low drone, with no vocals, no singing and no spoken words.
+
+The take runs on to about 10 seconds, and nothing new is introduced after the last beat described above.
