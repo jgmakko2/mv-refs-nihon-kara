@@ -10,7 +10,9 @@ Every panel carries one small solid black square rule centred at its top edge an
 
 Only the exact strings named panel by panel below may appear as readable text on this sheet. Every other readable word, label, sign, watermark, subtitle, brand, numeral, focal-length value, timestamp and invented character is forbidden.
 
-Panel 1: the ground is bare oatmeal off-white paper. an extreme close-up on the eyes, cropped above the brow and below the cheek. The figure is present in this panel exactly as described above. This panel carries the Japanese string それが良い関係なの？, printed exactly as written, with a character count of ten. Its characters, one per line, are:
+Each panel below sets its text a DIFFERENT way and stages its figure a DIFFERENT way. Do not carry one panel's typographic layout into the next, and do not fall back on one default arrangement for every string: follow each panel's own stated layout exactly, whether that is a horizontal row, a curve, a stair, a split, a stack or a column. Panels that name an object or a place must show it; panels that name none are deliberately empty and must stay empty.
+
+Panel 1: the ground is bare oatmeal off-white paper. an extreme close-up on the eyes, cropped above the brow and below the cheek. In this panel there is a hard white rectangle reflected in each eye, the shape of a fluorescent ceiling tube. The figure is present in this panel exactly as described above. Her posture in this panel: seen from directly overhead with her face turned up toward the camera, cropped to the eyes alone. Her design does not change - the same bob, the same halftone shirt, the same three-value structure. Only her posture and the camera angle are different here. How the text is SET in this panel: The string is set SMALL, in one short horizontal line tucked into the very bottom-left corner of the panel, against the whole rest of the panel left empty - a deliberate reversal of the giant type used elsewhere. It is small but perfectly crisp, and every character is whole and completely readable. This panel carries the Japanese string それが良い関係なの？, printed exactly as written, with a character count of ten. Its characters, in reading order, are:
 そ
 れ
 が
@@ -20,7 +22,7 @@ Panel 1: the ground is bare oatmeal off-white paper. an extreme close-up on the 
 係
 な
 の
-？ Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
+？ That list is how the string is SPELLED. It is not a layout instruction: the layout is exactly the one described above and nothing else. Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
 
 Draw NO arrows, NO motion lines, NO speed lines, NO panel numbers, NO labels, NO captions and NO annotations of any kind anywhere on the sheet. Nothing on this sheet describes movement; it is a set of still compositions.
 

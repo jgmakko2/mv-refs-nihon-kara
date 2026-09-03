@@ -10,9 +10,11 @@ Every panel carries one small solid black square rule centred at its top edge an
 
 Only the exact strings named panel by panel below may appear as readable text on this sheet. Every other readable word, label, sign, watermark, subtitle, brand, numeral, focal-length value, timestamp and invented character is forbidden.
 
-Panel 1: the ground is a solid charcoal-black ink page. the same standing figure printed three times across one solid ink page at receding sizes, the paper showing through only where the perforated shirts are. The figure is present in this panel exactly as described above. This panel carries no readable text of any kind.
+Each panel below sets its text a DIFFERENT way and stages its figure a DIFFERENT way. Do not carry one panel's typographic layout into the next, and do not fall back on one default arrangement for every string: follow each panel's own stated layout exactly, whether that is a horizontal row, a curve, a stair, a split, a stack or a column. Panels that name an object or a place must show it; panels that name none are deliberately empty and must stay empty.
 
-Panel 2: the ground is bare oatmeal off-white paper. an extreme close-up on the eyes, cropped above the brow and below the cheek, on bare oatmeal paper, the halftone of the collar just entering the bottom edge. The figure is present in this panel exactly as described above. This panel carries the Japanese string 良い人はもう疲れた, printed exactly as written, with a character count of nine. Its characters, one per line, are:
+Panel 1: the ground is a solid charcoal-black ink page. the same standing figure printed three times across one solid ink page at receding sizes, the paper showing through only where the perforated shirts are. In this panel there is a packed commuter train interior, a row of hanging straps swinging in a line across the top of the panel and blank identical passengers filling the space. Draw it as a real place with recession and depth, not as a flat pattern - it is the only thing in this panel that has space in it. The figure is present in this panel exactly as described above. Her posture in this panel: she pushes forward through the crowd of blank identical figures, shoulder first, one arm raised to a strap. Her design does not change - the same bob, the same halftone shirt, the same three-value structure. Only her posture and the camera angle are different here. This panel carries no readable text of any kind.
+
+Panel 2: the ground is bare oatmeal off-white paper. an extreme close-up on the eyes, cropped above the brow and below the cheek, on bare oatmeal paper, the halftone of the collar just entering the bottom edge. In this panel there is two hard white fluorescent ceiling tubes reflected as two straight bars across her eyes. The figure is present in this panel exactly as described above. Her posture in this panel: seen from a low angle with her face tipped back, cropped to the eyes alone. Her design does not change - the same bob, the same halftone shirt, the same three-value structure. Only her posture and the camera angle are different here. How the text is SET in this panel: The string is set as ONE HORIZONTAL LINE across the lower third of the panel, and each character sits a little lower than the one before it so the whole line sags downward to the right, like a line going slack. Every character stays upright, whole and completely readable; nothing is cropped, hidden or broken. This panel carries the Japanese string 良い人はもう疲れた, printed exactly as written, with a character count of nine. Its characters, in reading order, are:
 良
 い
 人
@@ -21,9 +23,9 @@ Panel 2: the ground is bare oatmeal off-white paper. an extreme close-up on the 
 う
 疲
 れ
-た Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
+た That list is how the string is SPELLED. It is not a layout instruction: the layout is exactly the one described above and nothing else. Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
 
-Panel 3: the ground is bare oatmeal off-white paper. the head and shoulders in left profile, the figure ranged hard to the right of the sheet. The figure is present in this panel exactly as described above. This panel carries the Japanese string 嫌なのに笑うって, printed exactly as written, with a character count of eight. Its characters, one per line, are:
+Panel 3: the ground is bare oatmeal off-white paper. the head and shoulders in left profile, the figure ranged hard to the right of the sheet. In this panel there is a grid of stacked folding chairs behind her, their legs interlocking into a lattice. The figure is present in this panel exactly as described above. Her posture in this panel: turning sharply away from the chairs so her hair swings out in one flat black arc. Her design does not change - the same bob, the same halftone shirt, the same three-value structure. Only her posture and the camera angle are different here. How the text is SET in this panel: The string follows a slow shallow CURVE across the middle of the panel rather than a straight line, each character rotated to sit on that curve, so the row bows downward under her chin and lifts again at the right. Every character is whole and readable. This panel carries the Japanese string 嫌なのに笑うって, printed exactly as written, with a character count of eight. Its characters, in reading order, are:
 嫌
 な
 の
@@ -31,16 +33,16 @@ Panel 3: the ground is bare oatmeal off-white paper. the head and shoulders in l
 笑
 う
 っ
-て Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
+て That list is how the string is SPELLED. It is not a layout instruction: the layout is exactly the one described above and nothing else. Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
 
-Panel 4: the ground is a solid charcoal-black ink page. the figure seen from directly behind on a solid ink page, the back of the bob reading as one black mass. The figure is present in this panel exactly as described above. This panel carries the Japanese string もう無理でしょ, printed exactly as written, with a character count of seven. Its characters, one per line, are:
+Panel 4: the ground is a solid charcoal-black ink page. the figure seen from directly behind on a solid ink page, the back of the bob reading as one black mass. In this panel there is a corridor of identical steel lockers receding behind her into the dark. Draw it as a real place with recession and depth, not as a flat pattern - it is the only thing in this panel that has space in it. The figure is present in this panel exactly as described above. Her posture in this panel: slamming one hand flat against a locker door, her back to the camera and her shoulders driven down. Her design does not change - the same bob, the same halftone shirt, the same three-value structure. Only her posture and the camera angle are different here. How the text is SET in this panel: The string is set as one horizontal row and then SLICED: every character is cut by a single horizontal gap straight across its middle, and the lower half of each character is pushed one stroke-width to the right, so the row reads as a fault line. The two halves stay close enough that every character is still whole and identifiable. This panel carries the Japanese string もう無理でしょ, printed exactly as written, with a character count of seven. Its characters, in reading order, are:
 も
 う
 無
 理
 で
 し
-ょ Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
+ょ That list is how the string is SPELLED. It is not a layout instruction: the layout is exactly the one described above and nothing else. Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
 
 Draw NO arrows, NO motion lines, NO speed lines, NO panel numbers, NO labels, NO captions and NO annotations of any kind anywhere on the sheet. Nothing on this sheet describes movement; it is a set of still compositions.
 

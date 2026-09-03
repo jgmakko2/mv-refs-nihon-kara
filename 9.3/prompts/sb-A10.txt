@@ -10,7 +10,9 @@ Every panel carries one small solid black square rule centred at its top edge an
 
 Only the exact strings named panel by panel below may appear as readable text on this sheet. Every other readable word, label, sign, watermark, subtitle, brand, numeral, focal-length value, timestamp and invented character is forbidden.
 
-Panel 1: the ground is bare oatmeal off-white paper. a view of the figure from the waist up, printed with a deep letterpress bite. The figure is present in this panel exactly as described above. This panel carries the Japanese string 吉田松陰は言った, printed exactly as written, with a character count of eight. Its characters, one per line, are:
+Each panel below sets its text a DIFFERENT way and stages its figure a DIFFERENT way. Do not carry one panel's typographic layout into the next, and do not fall back on one default arrangement for every string: follow each panel's own stated layout exactly, whether that is a horizontal row, a curve, a stair, a split, a stack or a column. Panels that name an object or a place must show it; panels that name none are deliberately empty and must stay empty.
+
+Panel 1: the ground is bare oatmeal off-white paper. a view of the figure from the waist up, printed with a deep letterpress bite. In this panel there is a shoji screen and its wooden lattice behind her, and a low writing desk in front of her carrying a brush laid across a stone inkstone. Draw it as a real place with recession and depth, not as a flat pattern - it is the only thing in this panel that has space in it. The figure is present in this panel exactly as described above. Her posture in this panel: seen from a low angle looking up past her as she leans forward over the desk, chin lifted and one hand flat on the wood. Her design does not change - the same bob, the same halftone shirt, the same three-value structure. Only her posture and the camera angle are different here. How the text is SET in this panel: The string is set as one vertical column reading top to bottom, ranged down the left edge - but narrower, lighter and set smaller than any other column on any other sheet, pressed into the thick paper with a visible ink bead and a deep deboss so it reads as hand-pulled letterpress rather than as display type. Every character is whole and completely readable, and her head and shoulders stay entirely clear of every stroke. This panel carries the Japanese string 吉田松陰は言った, printed exactly as written, with a character count of eight. Its characters, in reading order, are:
 吉
 田
 松
@@ -18,7 +20,7 @@ Panel 1: the ground is bare oatmeal off-white paper. a view of the figure from t
 は
 言
 っ
-た Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
+た That list is how the string is SPELLED. It is not a layout instruction: the layout is exactly the one described above and nothing else. Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
 
 Draw NO arrows, NO motion lines, NO speed lines, NO panel numbers, NO labels, NO captions and NO annotations of any kind anywhere on the sheet. Nothing on this sheet describes movement; it is a set of still compositions.
 
