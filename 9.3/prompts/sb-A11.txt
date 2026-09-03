@@ -1,0 +1,28 @@
+A single storyboard sheet in a tall nine-by-sixteen vertical proportion.
+
+This is ONE single page, not a sheet of panels: draw NO panel borders, NO frames, NO gutters, NO divisions of any kind, and no second panel anywhere. The drawing fills the whole sheet edge to edge.
+
+A storyboard sheet for a poster and magazine-editorial music video, drawn as flat anime-style illustration: clean ink line work, flat cel shading with no soft gradient anywhere, a coarse open halftone dot screen carrying every mid value, visible paper grain and a letterpress bite. Three inks only - an oatmeal off-white paper ground, a dense charcoal-black ink, and one vermilion accent. Not photorealistic, not live action, not a 3D render, not clean vector art, not airbrushed. Light is a hard-edged plane split by a single crisp boundary, never a gradient. No flag, no national emblem, no rising-sun rays, no crest and no military insignia anywhere on the sheet, and at most one plain disc or one brush ring in any single panel.
+
+NO PEOPLE APPEAR ON THIS SHEET AT ALL. There is no figure, no face, no body and no part of a body in any panel. Do not invent characters to fill the space; empty paper and printed type are the intended content.
+
+Every panel carries one small solid black square rule centred at its top edge and a run of short horizontal ink dashes and dots ranged down one margin as texture. Those dashes and dots are marks, not words: they must form no letter of any alphabet and no numeral.
+
+Only the exact strings named panel by panel below may appear as readable text on this sheet. Every other readable word, label, sign, watermark, subtitle, brand, numeral, focal-length value, timestamp and invented character is forbidden.
+
+Panel 1: the ground is split by one hard vertical rule, bare paper on the left half and one flat vermilion field on the right half, the two never blending at the rule. the entire frame is one flat sheet of thick paper seen straight on, and there is no figure, no face and no part of a body anywhere in this take; partway through, a single hard vertical rule drops through the middle, and from then on the left half stays bare paper cut with a coarse woodblock bite while the right half is one flat vermilion field, the two halves never blending at the rule. There is no figure, no face and no part of a body in this panel. This panel carries the Japanese string 不安と生きるか, printed exactly as written, with a character count of seven. Its characters, one per line, are:
+不
+安
+と
+生
+き
+る
+か Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge. This panel carries the Japanese string 理想に死ぬか, printed exactly as written, with a character count of six. Its characters, one per line, are:
+理
+想
+に
+死
+ぬ
+か Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge.
+
+Draw NO arrows, NO motion lines, NO speed lines, NO panel numbers, NO labels, NO captions and NO annotations of any kind anywhere on the sheet. Nothing on this sheet describes movement; it is a set of still compositions.

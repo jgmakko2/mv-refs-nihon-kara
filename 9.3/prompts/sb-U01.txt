@@ -1,0 +1,33 @@
+A single storyboard sheet in a tall nine-by-sixteen vertical proportion.
+
+Lay the sheet out as a strict three-by-three grid of nine equal panels, read left to right along each row, top row first. Each panel is the same size and the same tall proportion as the sheet itself. Separate them with a thin plain gutter of bare paper and nothing else.
+
+A storyboard sheet for a poster and magazine-editorial music video, drawn as flat anime-style illustration: clean ink line work, flat cel shading with no soft gradient anywhere, a coarse open halftone dot screen carrying every mid value, visible paper grain and a letterpress bite. Three inks only - an oatmeal off-white paper ground, a dense charcoal-black ink, and one vermilion accent. Not photorealistic, not live action, not a 3D render, not clean vector art, not airbrushed. Light is a hard-edged plane split by a single crisp boundary, never a gradient. No flag, no national emblem, no rising-sun rays, no crest and no military insignia anywhere on the sheet, and at most one plain disc or one brush ring in any single panel.
+
+Where a figure appears she is always the same young woman: a chin-length blunt bob of solid black hair that splits into strands at the fringe with two longer locks in front of the ears, a neutral face with level black eyes, a small straight nose and a closed mouth, one oversized white shirt buttoned to the throat with a sharp collar and dropped shoulders, and floor-length wide black trousers. Her value structure is fixed: hair solid black, shirt an open perforated halftone that lets the paper show through, trousers solid black. Do not redesign her and do not add accessories.
+
+Every panel carries one small solid black square rule centred at its top edge and a run of short horizontal ink dashes and dots ranged down one margin as texture. Those dashes and dots are marks, not words: they must form no letter of any alphabet and no numeral.
+
+Only the exact strings named panel by panel below may appear as readable text on this sheet. Every other readable word, label, sign, watermark, subtitle, brand, numeral, focal-length value, timestamp and invented character is forbidden.
+
+Panel 1: the ground is one flat vermilion field owning the whole panel. one flat vermilion field flooding across an oatmeal paper sheet from the right edge, with no figure, no face and no part of a body anywhere in it. There is no figure, no face and no part of a body in this panel. This panel carries no readable text of any kind.
+
+Panel 2: the ground is a solid charcoal-black ink page. a solid ink page with a heavy ink bead ridge running down it and a coarse press texture, with no figure and no part of a body anywhere in it. There is no figure, no face and no part of a body in this panel. This panel carries no readable text of any kind.
+
+Panel 3: the ground is a solid charcoal-black ink page. the flat black silhouette of the figure lying on her side straight across a solid ink page, read only by the open holes of the perforated shirt. The figure is present in this panel exactly as described above. This panel carries no readable text of any kind.
+
+Panel 4: the ground is one flat vermilion field owning the whole panel. a storm of coarse halftone dots blowing across one flat vermilion field, with no figure and no part of a body anywhere in it. There is no figure, no face and no part of a body in this panel. This panel carries no readable text of any kind.
+
+Panel 5: the ground is bare oatmeal off-white paper and more than three quarters of the panel is empty. an almost entirely empty oatmeal sheet with one thin ink hairline across the lower third and nothing else, no figure and no part of a body anywhere. There is no figure, no face and no part of a body in this panel. This panel carries no readable text of any kind.
+
+Panel 6: the ground is a solid charcoal-black ink page. solid ink flooding across the whole sheet and leaving one plain round hole of bare paper, with no figure and no part of a body anywhere in it. There is no figure, no face and no part of a body in this panel. This panel carries no readable text of any kind.
+
+Panel 7: the ground is one flat vermilion field owning the whole panel. one flat vermilion field owning the entire sheet with only a hand and forearm entering from the lower left corner - no face and no head anywhere in shot. The figure is present in this panel exactly as described above. This panel carries no readable text of any kind.
+
+Panel 8: the ground is bare oatmeal off-white paper and more than three quarters of the panel is empty. an almost entirely empty oatmeal sheet carrying one small ink dash cluster in the margin and nothing else, no figure and no part of a body anywhere. There is no figure, no face and no part of a body in this panel. This panel carries no readable text of any kind.
+
+Panel 9: the ground is bare oatmeal off-white paper. a coarse open halftone screen sweeping across bare oatmeal paper and closing over it, with no figure and no part of a body anywhere in it. There is no figure, no face and no part of a body in this panel. This panel carries no readable text of any kind.
+
+Draw NO arrows, NO motion lines, NO speed lines, NO panel numbers, NO labels, NO captions and NO annotations of any kind anywhere on the sheet. Nothing on this sheet describes movement; it is a set of still compositions.
+
+Only this one woman appears anywhere on the sheet. Do not add a second character, a crowd, a line-up or any other person.
