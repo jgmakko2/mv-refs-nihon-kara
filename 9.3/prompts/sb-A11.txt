@@ -10,14 +10,14 @@ Every panel carries one small solid black square rule centred at its top edge an
 
 Only the exact strings named panel by panel below may appear as readable text on this sheet. Every other readable word, label, sign, watermark, subtitle, brand, numeral, focal-length value, timestamp and invented character is forbidden.
 
-Panel 1: the ground is split by one hard vertical rule, bare paper on the left half and one flat vermilion field on the right half, the two never blending at the rule. the entire frame is one flat sheet of thick paper seen straight on, and there is no figure, no face and no part of a body anywhere in this take; partway through, a single hard vertical rule drops through the middle, and from then on the left half stays bare paper cut with a coarse woodblock bite while the right half is one flat vermilion field, the two halves never blending at the rule. There is no figure, no face and no part of a body in this panel. This panel carries the Japanese string 不安と生きるか, printed exactly as written, with a character count of seven. Its characters, one per line, are:
+Panel 1: the ground is split by one hard vertical rule, bare paper on the left half and one flat vermilion field on the right half, the two never blending at the rule. the entire frame is one flat sheet of thick paper seen straight on, and there is no figure, no face and no part of a body anywhere in this take; partway through, a single hard vertical rule drops through the middle, and from then on the left half stays bare paper cut with a coarse woodblock bite while the right half is one flat vermilion field, the two halves never blending at the rule. There is no figure, no face and no part of a body in this panel. The LEFT half, on the bare woodblock-bitten paper, carries the Japanese string 不安と生きるか, set as one vertical column reading top to bottom and printed exactly as written, with a character count of seven. Its characters, one per line, are:
 不
 安
 と
 生
 き
 る
-か Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge. This panel carries the Japanese string 理想に死ぬか, printed exactly as written, with a character count of six. Its characters, one per line, are:
+か Do not invent, approximate, simplify or substitute a similar-looking character, and add no other Japanese to this panel. Every character must stay whole and identifiable: no radical and no component of any character may be cropped away by the panel edge. The RIGHT half, on the flat vermilion field, carries the Japanese string 理想に死ぬか, set as one vertical column reading top to bottom and printed exactly as written, with a character count of six. The two columns never cross the vertical rule and neither string is split between the halves. Its characters, one per line, are:
 理
 想
 に
