@@ -1,0 +1,17 @@
+A single storyboard sheet in a tall nine-by-sixteen vertical proportion.
+
+This is ONE single page, not a sheet of panels: draw NO panel borders, NO frames, NO gutters, NO divisions of any kind, and no second panel anywhere. The drawing fills the whole sheet edge to edge.
+
+A storyboard sheet for a poster and magazine-editorial music video, drawn as flat anime-style illustration: clean ink line work, flat cel shading with no soft gradient anywhere, a coarse open halftone dot screen carrying every mid value, visible paper grain and a letterpress bite. Three inks only - an oatmeal off-white paper ground, a dense charcoal-black ink, and one vermilion accent. Not photorealistic, not live action, not a 3D render, not clean vector art, not airbrushed. Light is a hard-edged plane split by a single crisp boundary, never a gradient. No flag, no national emblem, no rising-sun rays, no crest and no military insignia anywhere on the sheet, and at most one plain disc or one brush ring in any single panel.
+
+Where a figure appears she is always the same young woman: a chin-length blunt bob of solid black hair that splits into strands at the fringe with two longer locks in front of the ears, a neutral face with level black eyes, a small straight nose and a closed mouth, one oversized white shirt buttoned to the throat with a sharp collar and dropped shoulders, and floor-length wide black trousers. Her value structure is fixed: hair solid black, shirt an open perforated halftone that lets the paper show through, trousers solid black. Do not redesign her and do not add accessories.
+
+The panel carries one small solid black square rule centred at its top edge and a run of short horizontal ink dashes and dots ranged down one margin as texture. Those dashes and dots are marks, not words: they must form no letter of any alphabet and no numeral.
+
+NO READABLE TEXT APPEARS ON THIS SHEET AT ALL. There is no Japanese, no Latin, no letter of any alphabet, no numeral, no word, no label, no caption, no watermark, no signature string and no invented character anywhere in the panel. The only marks are the square rule, the margin dashes, the brush ring and the figure.
+
+Panel 1: the ground is bare oatmeal off-white paper and at least three quarters of the panel is completely empty. High on the left sits ONE vermilion brush ring - a single open circle drawn in one stroke, its ends not quite meeting, the brush's dry drag visible along the stroke. It is a plain ring: no rays, no emblem, no crest, no second circle. Low on the right stands the figure's small flat silhouette, filled solid black with no interior detail, no face and no halftone, reading only as a shape: the blunt bob, the dropped shoulders and the wide trousers. She occupies less than one eighth of the panel and is turned slightly away. Nothing else is in the panel. The emptiness between the ring and the silhouette is the subject.
+
+Draw NO arrows, NO motion lines, NO speed lines, NO panel numbers, NO labels, NO captions and NO annotations of any kind anywhere on the sheet. Nothing on this sheet describes movement; it is a still composition.
+
+Only this one woman appears anywhere on the sheet. Do not add a second character, a crowd, a line-up or any other person.
